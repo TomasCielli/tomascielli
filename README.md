@@ -1,4 +1,5 @@
 <h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   ¡Buenas!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
@@ -6,10 +7,10 @@
 ---
 <div align="center">
   
-# 💫Tomas Cielli Moro 
-🔭 Estudiante de la facultad de Informatica de la Universidad Nacional de La Plata (UNLP)
+# Tomas Cielli Moro 
+🔭 Estudiante de la Facultad de Informática de la Universidad Nacional de La Plata (UNLP)
   
-🌱 Actualmente en la carrera de Analista en Tecnologías de la Información y la Comunicación (ATIC)
+🌱 Actualmente cursando en la carrera de Analista en Tecnologías de la Información y la Comunicación (ATIC)
 
 </p>
 
